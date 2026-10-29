@@ -229,7 +229,7 @@ Roblox API has rate limited your IP. The tool honors the `Retry-After` header au
 ## Connect & Support
 
 - **Discord**: [https://discord.gg/rxw8Hwk3qA](https://discord.gg/rxw8Hwk3qA)
-- **TikTok**: [@noxoofusion](https://www.tiktok.com/@noxofusion)
+- **TikTok**: [@noxofusion](https://www.tiktok.com/@noxofusion)
 - **YouTube**: [@noxofusion2010](https://www.youtube.com/@noxofusion2010)
 
 ---
